@@ -1,6 +1,6 @@
 import { styled } from "styled-components";
 
-export const Div = styled.div`
+export const Block = styled.div`
 width: 500px;
 margin: 0 auto;
 text-align:left;
